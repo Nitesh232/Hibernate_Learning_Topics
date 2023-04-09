@@ -1,39 +1,44 @@
-# Hibernate_Learning_Topics
+# Hibernate_Learning_Topics.
 
 Here I will be adding all topics and its projects while the course of learning Hibernate.
 
-# Basics of Hibernate 
-  1. Introduction
-  2. Writing a Hibernate application
+## Basics of Hibernate.
+  1. Introduction.
+  2. Writing a Hibernate application.
   3. Writing Model Class and Hibernate configuration file(hibernate.cfg.xml).
 
-# hbm2ddl configuration and more annotation
+#### hbm2ddl configuration and more annotation.
 
-# Hibernate Session and it's methods
+#### Hibernate Session and it's methods.
 
-# Value types and Object Embedding
+#### Value types and Object Embedding.
 
-# Proxy Objects and Fetch Type(Lazy and Eager)
+#### Proxy Objects and Fetch Type(Lazy and Eager).
 
-# Hibernate Mapping
-  - Collection Mapping 
-  - Configuring Collections and adding Keys
-  - One to One Mapping
-  - One to Many and Many to One
-  - Many to Many
+### Hibernate Mapping.
+  - Collection Mapping.
+  - Configuring Collections and adding Keys.
+  - One to One Mapping.
+  - One to Many and Many to One.
+  - Many to Many.
   
-# Cascading in Hibernate
+#### Cascading in Hibernate.
 
-# Inheritance mapping
+### Inheritance mapping.
+  1. Single Table Strategy
+  2. Joined Table Strategy
+  3. Table Per Class 
 
-# Hibernate Query Language(HQL).
+#### Hibernate Object States.
 
-# Hibernate Criteria Query
+#### Hibernate Query Language(HQL).
 
-# Hibernate Name query
+#### Hibernate Criteria Query.
 
-# Hibernate Caching 
+#### Hibernate Name query.
 
-# Hibernate Transaction 
+#### Hibernate Caching.
 
-# Hibernate Integration
+#### Hibernate Transaction.
+
+#### Hibernate Integration.
