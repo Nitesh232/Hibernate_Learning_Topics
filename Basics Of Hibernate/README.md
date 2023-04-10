@@ -1,8 +1,4 @@
-# Hibernate_Learning_Topics.
-
-Here I will be adding all topics and its projects while the course of learning Hibernate.
-
-## Basics of Hibernate.
+# Basics of Hibernate.
   1. Introduction.
   2. Steps involved in writing an Hibernate Application.
   3. Writing Model Class and Hibernate configuration file(hibernate.cfg.xml).
@@ -64,26 +60,25 @@ These are the general steps for writing a Hibernate application. However, there 
 
 '''
 
-@Entity
-@Table(name = "employees")
-public class Employee {
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Column(name = "id")
-    private int id;
+    @Entity
+    @Table(name = "employees")
+    public class Employee {
+        @Id
+        @GeneratedValue(strategy = GenerationType.IDENTITY)
+        @Column(name = "id")
+        private int id;
 
-    @Column(name = "first_name")
-    private String firstName;
+        @Column(name = "first_name")
+        private String firstName;
 
-    @Column(name = "last_name")
-    private String lastName;
+        @Column(name = "last_name")
+        private String lastName;
 
-    @Column(name = "email")
-    private String email;
+        @Column(name = "email")
+        private String email;
 
-    // getter, setter and toString methods for each property
-}
-
+        // getter, setter and toString methods for each property
+    }
 
 '''
 
