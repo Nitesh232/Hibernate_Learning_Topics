@@ -2,10 +2,10 @@
 
 Here I will be adding all topics and its projects while the course of learning Hibernate.
 
-## Basics of Hibernate.
-  1. Introduction.
-  2. Writing a Hibernate application.
-  3. Writing Model Class and Hibernate configuration file(hibernate.cfg.xml).
+## [Basics of Hibernate.](https://github.com/Nitesh232/Hibernate_Learning_Topics/tree/main/Basics%20Of%20Hibernate)
+  1. [Introduction.](https://github.com/Nitesh232/Hibernate_Learning_Topics/tree/main/Basics%20Of%20Hibernate#introduction)
+  2. [Steps involved in writing an Hibernate Application.](https://github.com/Nitesh232/Hibernate_Learning_Topics/tree/main/Basics%20Of%20Hibernate#steps-involved-in-writing-an-hibernate-application)
+  3. [Writing Model Class and Hibernate configuration file(hibernate.cfg.xml).](https://github.com/Nitesh232/Hibernate_Learning_Topics/tree/main/Basics%20Of%20Hibernate#writing-modal-class)
 
 #### hbm2ddl configuration and more annotation.
 
