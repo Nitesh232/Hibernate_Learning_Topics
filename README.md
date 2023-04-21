@@ -7,7 +7,7 @@ Here I will be adding all topics and its projects while the course of learning H
   2. [Steps involved in writing an Hibernate Application.](https://github.com/Nitesh232/Hibernate_Learning_Topics/tree/main/Basics%20Of%20Hibernate#steps-involved-in-writing-an-hibernate-application)
   3. [Writing Model Class and Hibernate configuration file(hibernate.cfg.xml).](https://github.com/Nitesh232/Hibernate_Learning_Topics/tree/main/Basics%20Of%20Hibernate#writing-modal-class)
 
-#### hbm2ddl configuration and more annotation.
+#### hbm2ddl.auto configuration and more annotation.
 
 #### Hibernate Session and it's methods.
 
